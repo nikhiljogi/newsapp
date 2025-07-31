@@ -15,8 +15,15 @@ Packages we are using:
 - url_launcher: [link](https://pub.dev/packages/url_launcher)
 
 Screens it contains:
+Home Screen – Displays latest news list with images and published date
 
-=> Home Screen
+News Detail Screen – Shows title, author, content & open in browser
+
+Source Detail Screen – Displays articles by selected source
+
+Search Screen – Filter news articles by title or content
+
+Dark/Light Theme Toggle – Changes overall app theme
 
 => Source Screen
 
