@@ -100,7 +100,7 @@ App uses BLoC-like reactive architecture using RxDart.
 This submission was created within the 48-hour deadline as per instruction.
 
 📎 Submission Links
-🔗 APK Download: Click to Download
+🔗 APK Download: https://drive.google.com/file/d/1YhutGImBel4I-feMtPt6_ANZ02351nzb/view?usp=sharing
 
-🎥 App Demo Video: Watch Video
+🎥 App Demo Video: https://drive.google.com/file/d/1YhN-uBwaVeIPgl-8ODgJzPXgmgND_H2P/view?usp=sharing
 
