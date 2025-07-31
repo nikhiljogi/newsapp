@@ -97,8 +97,6 @@ Simple local caching is implemented for offline reading using Hive.
 
 App uses BLoC-like reactive architecture using RxDart.
 
-This submission was created within the 48-hour deadline as per instruction.
-
 📎 Submission Links
 🔗 APK Download: https://drive.google.com/file/d/1YhutGImBel4I-feMtPt6_ANZ02351nzb/view?usp=sharing
 
