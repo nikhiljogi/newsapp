@@ -111,8 +111,6 @@ Pagination: Omitted due to time constraints and NewsAPI’s free tier limitation
 Testing: Includes a basic unit test for the ArticleModel parsing to ensure data integrity.
 
 📎 Submission Links
-
-GitHub Repository: https://github.com/your-username/news-app
 APK Download: https://drive.google.com/file/d/1YhutGImBel4I-feMtPt6_ANZ02351nzb/view
 App Demo Video: https://drive.google.com/file/d/1YhN-uBwaVeIPgl-8ODgJzPXgmgND_H2P/view
 
