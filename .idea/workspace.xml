@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5b4dce6c-2e26-4886-aa88-a866de592c45" name="Changes" comment="done">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/0513qpn4/arm64-v8a/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/0513qpn4/armeabi-v7a/android_gradle_build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/0513qpn4/armeabi-v7a/build_file_index.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/.cxx/Debug/0513qpn4/x86/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/.cxx/RelWithDebInfo/4mz6r173/arm64-v8a/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/.cxx/RelWithDebInfo/4mz6r173/armeabi-v7a/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/.cxx/RelWithDebInfo/4mz6r173/x86/CMakeFiles/3.22.1-g37088a8-dirty/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/.cxx/RelWithDebInfo/4mz6r173/x86_64/CMakeFiles/3.22.1-g37088a8-dirty/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/placeholder.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logos/associated-press.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logos/time.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/app_metadata/debug/writeDebugAppMetadata/app-metadata.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/assets/debug/mergeDebugAssets/flutter_assets/AssetManifest.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/assets/debug/mergeDebugAssets/flutter_assets/assets/logos/rte.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/assets/release/mergeReleaseAssets/flutter_assets/assets/logos/abc-news.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/assets/release/mergeReleaseAssets/flutter_assets/assets/logos/msnbc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/assets/release/mergeReleaseAssets/flutter_assets/assets/logos/national-geographic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/assets/release/mergeReleaseAssets/flutter_assets/assets/logos/usa-today.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/flutter_assets/assets/logos/techradar.png.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/compressReleaseAssets/out/assets/flutter_assets/assets/logos/associated-press.png.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/compressed_assets/release/compressReleaseAssets/out/assets/flutter_assets/assets/logos/politico.png.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/cxx/Debug/0513qpn4/logs/arm64-v8a/configure_stdout.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/cxx/RelWithDebInfo/4mz6r173/logs/armeabi-v7a/metadata_generation_record.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/release/flutter_assets/assets/logos/cbs-news.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/release/flutter_assets/assets/logos/mtv-news.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/release/flutter_assets/assets/logos/national-geographic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/_LTtz0nz99lHd+q6KLuyE7LNFT8=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/mergeReleaseShaders/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/release-mergeJavaRes/zip-cache/_fiOxKP1bbJxtszqMuRSkBBmYhQ=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-cs/values-cs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/linked_resources_binary_format/release/processReleaseResources/output-metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged-not-compiled-resources/release/drawable-anydpi-v21/ic_call_answer_video.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged-not-compiled-resources/release/values-mr/values-mr.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_manifest/debug/processDebugMainManifest/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/mergeDebugResources/values-bg_values-bg.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/mergeDebugResources/values-fi_values-fi.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/mergeDebugResources/values-fr_values-fr.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/mergeDebugResources/values-ky_values-ky.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/mergeDebugResources/values-or_values-or.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/mergeDebugResources/values-sk_values-sk.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/release/mergeReleaseResources/drawable-anydpi-v21_ic_call_decline_low.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/release/mergeReleaseResources/layout_notification_template_part_time.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/release/mergeReleaseResources/values-or_values-or.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/release/mergeReleaseResources/values-ro_values-ro.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/release/mergeReleaseResources/values-sk_values-sk.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-ka.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/mergeDebugResources/out/multi-v2/values-kk.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/release/mergeReleaseResources/out/multi-v2/values-ja.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/release/mergeReleaseResources/out/multi-v2/values-ro.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/release/mergeReleaseResources/out/multi-v2/values-si.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileReleaseKotlin/cacheable/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileReleaseKotlin/classpath-snapshot/shrunk-classpath-snapshot.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/outputs/apk/debug/output-metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/outputs/mapping/release/seeds.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/flutter_assets/assets/logos/google-news.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/url_launcher_android/intermediates/incremental/debug-mergeJavaRes/merge-state" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/url_launcher_android/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-hi/values-hi.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/url_launcher_android/intermediates/incremental/release/mergeReleaseResources/merged.dir/values-iw/values-iw.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/url_launcher_android/intermediates/javac/release/compileReleaseJavaWithJavac/classes/io/flutter/plugins/urllauncher/WebViewActivity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/url_launcher_android/intermediates/merged_res/release/mergeReleaseResources/values-hu/values-hu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/url_launcher_android/intermediates/merged_res/release/mergeReleaseResources/values-it/values-it.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/url_launcher_android/intermediates/merged_res/release/mergeReleaseResources/values-uz/values-uz.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/url_launcher_android/intermediates/merged_res_blame_folder/release/mergeReleaseResources/out/multi-v2/values-b+sr+Latn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/url_launcher_android/intermediates/merged_res_blame_folder/release/mergeReleaseResources/out/multi-v2/values-mr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/url_launcher_android/intermediates/merged_res_blame_folder/release/mergeReleaseResources/out/multi-v2/values-nb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/url_launcher_android/intermediates/merged_res_blame_folder/release/mergeReleaseResources/out/multi-v2/values-nl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/url_launcher_android/intermediates/merged_res_blame_folder/release/mergeReleaseResources/out/single/anim-v21.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/url_launcher_android/intermediates/verified_library_resources/release/verifyReleaseResources/compiled/animator_fragment_fade_enter.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/url_launcher_android/intermediates/verified_library_resources/release/verifyReleaseResources/compiled/drawable-ldpi-v4_ic_call_answer_video.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/url_launcher_android/intermediates/verified_library_resources/release/verifyReleaseResources/compiled/values-am_values-am.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/url_launcher_android/intermediates/verified_library_resources/release/verifyReleaseResources/compiled/values-sv_values-sv.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/url_launcher_android/intermediates/verified_library_resources/release/verifyReleaseResources/compiled/values-v21_values-v21.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devtools_options.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/tabs/home_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;state&quot;: &quot;OPEN&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/nikhiljogi/newsapp.git&quot;,
+    &quot;accountId&quot;: &quot;dd1bb8b0-2602-4b26-bc56-594e8fcc150e&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="30dC9hxTHTfbOt83Ua5GqVJqg7Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "AnalyzeApkAction.lastApkPath": "E:/Flutter_News_Point-master",
+    "Flutter.main.dart.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "io.flutter.reload.alreadyRun": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/newsapp",
+    "settings.editor.selected.configurable": "AndroidSdkUpdater",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b4dce6c-2e26-4886-aa88-a866de592c45" name="Changes" comment="" />
+      <created>1753947912792</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753947912792</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/screens/tabs/search_screen.dart</url>
+          <line>156</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
